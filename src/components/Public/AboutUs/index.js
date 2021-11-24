@@ -6,11 +6,10 @@ export default function Index() {
           <div className="md:py-20 xl:w-1/2 sm:w-1/2 lg:mr-20 md:mr-6 flex flex-col md:items-end items-center justify-center xl:mr-28">
             <div className="flex flex-col items-center justify-center">
               <h1 className="md:text-5xl text-3xl font-bold text-center text-gray-800">
-                Wild Goose Chase
+                Quiénes somos
               </h1>
               <p className="sm:w-96 w-full mt-6 text-base leading-6 text-center text-gray-600">
-                A phrase is a short selection of words which when put together
-                create a concept.
+                Somos una clínica dedicada al tratamiento de personas con discapacidades físicas y mentales.
               </p>
               <div className="md:mt-14 mt-12 flex flex-col items-center">
                 <div
@@ -42,8 +41,7 @@ export default function Index() {
                   </svg>
                 </div>
                 <p className="text-base leading-6 mt-6 text-center text-gray-600 sm:w-96 w-full">
-                  A phrase is a short selection of words which when put together
-                  create a concept. There are eight types of phrases.
+                  No cobramos por nuestros servicios.
                 </p>
               </div>
               <div className="mt-7 flex flex-col items-center">
@@ -83,8 +81,7 @@ export default function Index() {
                   </svg>
                 </div>
                 <p className="text-base leading-6 mt-6 text-center text-gray-600 sm:w-96 w-full">
-                  A phrase is a short selection of words which when put together
-                  create a concept.
+                  Si alguien necesita información más específica, que LLAME al número 987654321.
                 </p>
               </div>
               <div className="mt-7 flex flex-col items-center">
@@ -138,8 +135,7 @@ export default function Index() {
                   </svg>
                 </div>
                 <p className="text-base leading-6 mt-6 text-center text-gray-600 sm:w-96 w-full">
-                  Whether article spirits new her covered hastily sitting her.
-                  Money witty
+                  Atendemos casi todo tipo de discapacidades.
                 </p>
               </div>
               <div className="mt-7 flex flex-col items-center">
@@ -179,8 +175,7 @@ export default function Index() {
                   </svg>
                 </div>
                 <p className="text-base leading-6 mt-6 text-center text-gray-600 sm:w-96 w-full">
-                  A phrase is a short selection of words which when put together
-                  create a concept.
+                  ¡Todos son bienvenidos a atenderse aquí!
                 </p>
               </div>
             </div>
