@@ -36,11 +36,10 @@ function Steps() {
               </div>
               <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                  Shooting Stars
+                  Haz CLICK en Reservar Cita
                 </h2>
                 <p className="leading-relaxed">
-                  VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
-                  bespoke try-hard cliche palo santo offal.
+                  Se encuentra en la barra de navegación que está ARRIBA de la pantalla.
                 </p>
               </div>
             </div>
@@ -68,11 +67,10 @@ function Steps() {
               </div>
               <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                  The Catalyzer
+                  Haz click en Reservar una Cita
                 </h2>
                 <p className="leading-relaxed">
-                  VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
-                  bespoke try-hard cliche palo santo offal.
+                  Es el botón azul que está en la parte de ABAJO a la DERECHA.
                 </p>
               </div>
             </div>
@@ -101,11 +99,10 @@ function Steps() {
               </div>
               <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                  The 400 Blows
+                  ESCRIBE los datos que te solicitan
                 </h2>
                 <p className="leading-relaxed">
-                  VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
-                  bespoke try-hard cliche palo santo offal.
+                  Encontrarás mensajes de ayuda.
                 </p>
               </div>
             </div>
@@ -134,11 +131,10 @@ function Steps() {
               </div>
               <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                  Neptune
+                  Haz click en GUARDAR
                 </h2>
                 <p className="leading-relaxed">
-                  VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
-                  bespoke try-hard cliche palo santo offal.
+                  Para poder agendar una cita al doctor.
                 </p>
               </div>
             </div>

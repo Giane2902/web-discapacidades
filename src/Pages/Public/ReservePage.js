@@ -12,8 +12,7 @@ function ReservePage() {
             Reservar Cita
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-            gentrify.
+            Si necesitas ayuda LLAMA al siguiente número: 987654321 con la dra. María.
           </p>
         </div>
         <div

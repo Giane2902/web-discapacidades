@@ -5,13 +5,11 @@ function Hero() {
         <div className="container mx-auto flex flex-col py-6 sm:py-12">
           <div className="w-11/12 sm:w-2/3 mb-5 sm:mb-10">
             <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-gray-500 font-extrabold leading-tight">
-              The Freedom to Create the
+              ¡Registra tu cita!
               <span className="text-indigo-500">Websites</span> You Want
             </h1>
             <p className="mt-5 sm:mt-10 text-gray-600 font-normal text-lg sm:text-lg">
-              A professional website drives sales. Create a beautiful website to
-              impress and engage new customers – and establish your business
-              online.
+              Esta página te ayudará a poder registrar una cita.
             </p>
           </div>
           <div className="flex">
