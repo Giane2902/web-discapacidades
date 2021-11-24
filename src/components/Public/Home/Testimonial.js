@@ -41,9 +41,7 @@ export default function Testimonial() {
                 </svg>
               </div>
               <p className="text-base leading-6 text-gray-600 mt-4">
-                When our designs need an expert opinion or approval, I know I
-                can rely on your agency Thank you for all your help-I will be
-                recommending you to everyone
+                Nunca me había sentido tan a gusto con el trato de los doctores. Me ayudaron mucho.
               </p>
               <div className="absolute bottom-0 -mb-4 ml-10">
                 <svg
@@ -76,7 +74,7 @@ export default function Testimonial() {
                   Alisha Cooper
                 </p>
                 <p className="text-base leading-4 mt-2 text-center text-gray-600">
-                  Developer
+                  Paciente con autismo
                 </p>
               </div>
             </div>
@@ -114,9 +112,7 @@ export default function Testimonial() {
                 </svg>
               </div>
               <p className="text-base leading-6 text-gray-600 mt-4">
-                When our designs need an expert opinion or approval, I know I
-                can rely on your agency Thank you for all your help-I will be
-                recommending you to everyone
+                No creía que iban a poder ayudarme con mi problema en las piernas, ahora puedo caminar mucho mejor.
               </p>
               <div className="absolute bottom-0 -mb-4 ml-10">
                 <svg
@@ -149,7 +145,7 @@ export default function Testimonial() {
                   Henry Jack
                 </p>
                 <p className="text-base leading-4 mt-2 text-center text-gray-600">
-                  UI/UX Designer
+                  Paciente con sindrome de piernas inquietas.
                 </p>
               </div>
             </div>
